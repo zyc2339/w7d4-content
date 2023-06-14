@@ -1,0 +1,10 @@
+.btn {
+  margin: 20px;
+  padding: 10px;
+  border: solid 3px purple;
+  border-radius: 5px;
+}
+
+.btnActive {
+  border: dashed 3px black;
+}
